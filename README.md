@@ -45,4 +45,4 @@ npm run preview
 ```
 
 ## 📑 License:
-- MIT © [xSNOWM4Nx](https://github.com/xSNOWM4Nx)
+- MIT © [rickytree](https://github.com/rickytree)
